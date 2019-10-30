@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
-
+Gufyngyunfy
 raiz=Tk()
 raiz.title("Nueva pestaña")
 raiz.resizable(0,0)
