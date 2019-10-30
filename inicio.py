@@ -58,5 +58,5 @@ micontraseña.grid(row=2,column=0,sticky="e", padx=10, pady=11)
 
 iniciar = Button(Frame1, text="Iniciar sesión.",command=validar, activebackground="#d5daff", activeforeground="white")
 iniciar.grid(row=3, column=1)
-
+h
 raiz.mainloop()
