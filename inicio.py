@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
-
+2w
 raiz=Tk()
 raiz.title("Nueva pestaña")
 raiz.resizable(0,0)
